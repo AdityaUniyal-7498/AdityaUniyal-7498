@@ -5,6 +5,8 @@
 - 📫 How to reach me : adityauniyal7498@gmail.com
 - 😄 Pronouns: I'm/Him
 - ⚡ Fun fact: The human brain cannot feel pain
+- hobby:
+- https://monkeytype.com/profile/AdityaUniyal7498
 
 <!---
 AdityaUniyal-7498/AdityaUniyal-7498 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
